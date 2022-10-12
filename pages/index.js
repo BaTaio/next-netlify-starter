@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="It's BTJUN!" />
+        <Header title="Welcome !🤗" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          It's BTJUN!😘
         </p>
       </main>
 
